@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #ccc;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    line-height: 2;
+}
+h1{
+    color: #28a6ff;
+    font-size: 50px;
+    margin-top: 100px;
+    letter-spacing: 5px;
+}
+h3{
+    font-size: 25px;
+    color: #ff16c2;
+}
+small{
+    font-size: 16px;
+    color: #3713ff;
+}
+span{
+    color: #28a6ff;
+}
