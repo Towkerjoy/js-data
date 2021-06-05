@@ -32,7 +32,7 @@ setInterval(time,1000);
 
 // Date Day
 var dateDay = new Date();
-var days = ["Saturday","Sunday","Monday","Tuesday","Wednesday","Friday","Thursday"];
+var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 document.querySelector("#dateDay").innerHTML = days[dateDay.getDay()];
 
 
